@@ -1,0 +1,18 @@
+{
+  "name": "vite-test-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "vitest": "vitest",
+    "vite-node": "vite-node load-with-vite-node.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "unique-names-generator": "^4.7.1",
+    "vite-node": "^2.0.5",
+    "vitest": "^2.0.5"
+  }
+}
